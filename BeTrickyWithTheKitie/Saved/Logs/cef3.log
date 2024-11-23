@@ -1,2 +1,14 @@
-[1121/151312.778:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1121/151516.917:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1123/161558.757:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[1123/161558.758:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1123/161559.408:WARNING:storage_block-inl.h(146)] Failed data load.
+[1123/161559.410:WARNING:storage_block-inl.h(146)] Failed data load.
+[1123/161559.412:WARNING:storage_block-inl.h(146)] Failed data load.
+[1123/161559.414:WARNING:storage_block-inl.h(146)] Failed data load.
+[1123/161559.415:ERROR:entry_impl.cc(998)] Failed to save user data
+[1123/161559.415:ERROR:entry_impl.cc(998)] Failed to save user data
+[1123/161607.704:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1123/161614.048:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
+[1123/161614.048:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[1123/161614.048:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
+[1123/161614.049:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
+[1123/161751.353:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
