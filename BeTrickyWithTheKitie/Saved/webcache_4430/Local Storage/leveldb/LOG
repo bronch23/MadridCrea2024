@@ -1,2 +1,3 @@
-2024/11/23-20:05:47.807 4610 Creating DB C:/Users/kuruk/Desktop/GJMC2024/BeTrickyWithTheKitie/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/11/23-20:05:47.833 4610 Reusing MANIFEST C:/Users/kuruk/Desktop/GJMC2024/BeTrickyWithTheKitie/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/11/23-21:50:12.636 704 Reusing MANIFEST C:/Users/kuruk/Desktop/GJMC2024/BeTrickyWithTheKitie/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/11/23-21:50:12.638 704 Recovering log #3
+2024/11/23-21:50:12.639 704 Reusing old log C:/Users/kuruk/Desktop/GJMC2024/BeTrickyWithTheKitie/Saved/webcache_4430\Local Storage\leveldb/000003.log 
